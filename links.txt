@@ -38293,6 +38293,9 @@ cp-barn.se
 nenadic.hr
 whencloudsfail.org
 rededecomunidades.com.br
+reformarchive.com
+2chicksandamop.com
+infodmca.com
 dynamic-dns.net
 longmusic.com
 wikaba.com
@@ -38778,6 +38781,7 @@ tôt.net
 yyuyy.com
 flashhub.net
 remotewire.net
+ezgateway.net
 dynv6.net
 dns.army
 dns.navy
