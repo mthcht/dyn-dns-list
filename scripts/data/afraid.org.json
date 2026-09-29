@@ -232222,5 +232222,23 @@
     "domain": "velofolio.fr",
     "age": "30 days ago (08/29/2026)",
     "retrievedAt": "2026-09-28T21:12:32.453Z"
+  },
+  {
+    "id": "1480388",
+    "domain": "allteams.pro",
+    "age": "50 days ago (08/10/2026)",
+    "retrievedAt": "2026-09-29T21:12:38.891Z"
+  },
+  {
+    "id": "1482252",
+    "domain": "bitwaive.com",
+    "age": "5 days ago (09/23/2026)",
+    "retrievedAt": "2026-09-29T21:12:42.664Z"
+  },
+  {
+    "id": "1470534",
+    "domain": "directnode.xyz",
+    "age": "230 days ago (02/11/2026)",
+    "retrievedAt": "2026-09-29T21:12:51.668Z"
   }
 ]
